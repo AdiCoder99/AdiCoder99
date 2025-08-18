@@ -17,8 +17,6 @@
 - 🧑‍🎓 Currently surviving on a balanced diet of code, caffeine, and curiosity  
 - 🌍 Always exploring new ideas — from tech experiments to random late-night Wikipedia rabbit holes  
 - 😅 Known to spend hours fixing a bug… only to find it was a missing semicolon  
-- ⚡ Fun fact: At 6’2”, I can reach the top shelf without a stool (comes in handy more than you’d think)  
-
 
 
 ## 🛠️ My Tech Stack:
