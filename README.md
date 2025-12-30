@@ -1,7 +1,7 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&width=435&lines=Hello+World!+%F0%9F%8C%90;Full+Stack+Developer+%F0%9F%92%BB;Software+Developer++%F0%9F%9B%A0;Engineer+%F0%9F%9A%80)]
-  
+(https://git.io/typing-svg )
   <!-- Small Welcome Message -->
   <h2>✨ Welcome to my GitHub ✨</h2>
   <p align="center">Glad to have you here — feel free to explore my projects 🚀</p>
